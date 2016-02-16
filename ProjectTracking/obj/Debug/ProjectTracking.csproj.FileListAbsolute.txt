@@ -1,0 +1,72 @@
+D:\phamner\Documents\Visual Studio 2013\Projects\ProjectTracking\ProjectTracking\bin\Debug\ProjectTracking.exe.config
+D:\phamner\Documents\Visual Studio 2013\Projects\ProjectTracking\ProjectTracking\bin\Debug\ProjectTracking.exe
+D:\phamner\Documents\Visual Studio 2013\Projects\ProjectTracking\ProjectTracking\bin\Debug\ProjectTracking.pdb
+D:\phamner\Documents\Visual Studio 2013\Projects\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.csprojResolveAssemblyReference.cache
+D:\phamner\Documents\Visual Studio 2013\Projects\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.MainForm.resources
+D:\phamner\Documents\Visual Studio 2013\Projects\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.Properties.Resources.resources
+D:\phamner\Documents\Visual Studio 2013\Projects\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.csproj.GenerateResource.Cache
+D:\phamner\Documents\Visual Studio 2013\Projects\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.exe
+D:\phamner\Documents\Visual Studio 2013\Projects\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.pdb
+D:\phamner\Documents\Visual Studio 2013\Projects\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.EmployeesForm.resources
+D:\phamner\Documents\Visual Studio 2013\Projects\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.ProjectsForm.resources
+D:\phamner\Documents\Visual Studio 2013\Projects\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.TasksForm.resources
+G:\School\Designing Database Applications\Term Project\ProjectTracking\ProjectTracking\bin\Debug\ProjectTracking.exe.config
+G:\School\Designing Database Applications\Term Project\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.exe
+G:\School\Designing Database Applications\Term Project\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.pdb
+G:\School\Designing Database Applications\Term Project\ProjectTracking\ProjectTracking\bin\Debug\ProjectTracking.mdf
+G:\School\Designing Database Applications\Term Project\ProjectTracking\ProjectTracking\bin\Debug\ProjectTracking_log.ldf
+G:\School\Designing Database Applications\Term Project\ProjectTracking\ProjectTracking\bin\Debug\ProjectTracking.exe
+G:\School\Designing Database Applications\Term Project\ProjectTracking\ProjectTracking\bin\Debug\ProjectTracking.pdb
+G:\School\Designing Database Applications\Term Project\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.csprojResolveAssemblyReference.cache
+G:\School\Designing Database Applications\Term Project\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.EmployeesForm.resources
+G:\School\Designing Database Applications\Term Project\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.MainForm.resources
+G:\School\Designing Database Applications\Term Project\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.ProjectsForm.resources
+G:\School\Designing Database Applications\Term Project\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.Properties.Resources.resources
+G:\School\Designing Database Applications\Term Project\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.TasksForm.resources
+G:\School\Designing Database Applications\Term Project\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.csproj.GenerateResource.Cache
+D:\phamner\Documents\Visual Studio 2013\Projects\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.HoursForm.resources
+D:\phamner\Documents\Visual Studio 2013\Projects\ProjectTracking\ProjectTracking\bin\Debug\ProjectTracking.mdf
+D:\phamner\Documents\Visual Studio 2013\Projects\ProjectTracking\ProjectTracking\bin\Debug\ProjectTracking_log.ldf
+G:\School\Designing Database Applications\Term Project\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.HoursForm.resources
+D:\phamner\Documents\Visual Studio 2013\Projects\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.ProjectTasksView.resources
+G:\School\Designing Database Applications\Term Project\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.ProjectTasksView.resources
+G:\School\Designing Database Applications\Term Project\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.ProjectEmployeeTasksView.resources
+D:\phamner\Documents\Visual Studio 2013\Projects\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.ProjectEmployeeTasksView.resources
+D:\phamner\Documents\Visual Studio 2013\Projects\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.EmployeeProjectsView.resources
+G:\School\Designing Database Applications\Term Project\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.EmployeeProjectsView.resources
+F:\Media Library\Documents\bu\School\Old Classes\Designing Database Applications\Term Project\ProjectTracking\ProjectTracking\bin\Debug\ProjectTracking.exe.config
+F:\Media Library\Documents\bu\School\Old Classes\Designing Database Applications\Term Project\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.exe
+F:\Media Library\Documents\bu\School\Old Classes\Designing Database Applications\Term Project\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.pdb
+F:\Media Library\Documents\bu\School\Old Classes\Designing Database Applications\Term Project\ProjectTracking\ProjectTracking\bin\Debug\ProjectTracking.mdf
+F:\Media Library\Documents\bu\School\Old Classes\Designing Database Applications\Term Project\ProjectTracking\ProjectTracking\bin\Debug\ProjectTracking_log.ldf
+F:\Media Library\Documents\bu\School\Old Classes\Designing Database Applications\Term Project\ProjectTracking\ProjectTracking\bin\Debug\ProjectTracking.exe
+F:\Media Library\Documents\bu\School\Old Classes\Designing Database Applications\Term Project\ProjectTracking\ProjectTracking\bin\Debug\ProjectTracking.pdb
+F:\Media Library\Documents\bu\School\Old Classes\Designing Database Applications\Term Project\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.csprojResolveAssemblyReference.cache
+F:\Media Library\Documents\bu\School\Old Classes\Designing Database Applications\Term Project\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.EmployeeProjectsView.resources
+F:\Media Library\Documents\bu\School\Old Classes\Designing Database Applications\Term Project\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.EmployeesForm.resources
+F:\Media Library\Documents\bu\School\Old Classes\Designing Database Applications\Term Project\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.HoursForm.resources
+F:\Media Library\Documents\bu\School\Old Classes\Designing Database Applications\Term Project\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.MainForm.resources
+F:\Media Library\Documents\bu\School\Old Classes\Designing Database Applications\Term Project\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.ProjectsForm.resources
+F:\Media Library\Documents\bu\School\Old Classes\Designing Database Applications\Term Project\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.ProjectTasksView.resources
+F:\Media Library\Documents\bu\School\Old Classes\Designing Database Applications\Term Project\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.ProjectEmployeeTasksView.resources
+F:\Media Library\Documents\bu\School\Old Classes\Designing Database Applications\Term Project\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.Properties.Resources.resources
+F:\Media Library\Documents\bu\School\Old Classes\Designing Database Applications\Term Project\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.TasksForm.resources
+F:\Media Library\Documents\bu\School\Old Classes\Designing Database Applications\Term Project\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.csproj.GenerateResource.Cache
+C:\Users\Jackson\Desktop\ProjectTracking\ProjectTracking\bin\Debug\ProjectTracking.exe.config
+C:\Users\Jackson\Desktop\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.exe
+C:\Users\Jackson\Desktop\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.pdb
+C:\Users\Jackson\Desktop\ProjectTracking\ProjectTracking\bin\Debug\ProjectTracking.mdf
+C:\Users\Jackson\Desktop\ProjectTracking\ProjectTracking\bin\Debug\ProjectTracking_log.ldf
+C:\Users\Jackson\Desktop\ProjectTracking\ProjectTracking\bin\Debug\ProjectTracking.exe
+C:\Users\Jackson\Desktop\ProjectTracking\ProjectTracking\bin\Debug\ProjectTracking.pdb
+C:\Users\Jackson\Desktop\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.csprojResolveAssemblyReference.cache
+C:\Users\Jackson\Desktop\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.EmployeeProjectsView.resources
+C:\Users\Jackson\Desktop\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.EmployeesForm.resources
+C:\Users\Jackson\Desktop\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.HoursForm.resources
+C:\Users\Jackson\Desktop\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.MainForm.resources
+C:\Users\Jackson\Desktop\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.ProjectsForm.resources
+C:\Users\Jackson\Desktop\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.ProjectTasksView.resources
+C:\Users\Jackson\Desktop\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.ProjectEmployeeTasksView.resources
+C:\Users\Jackson\Desktop\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.Properties.Resources.resources
+C:\Users\Jackson\Desktop\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.TasksForm.resources
+C:\Users\Jackson\Desktop\ProjectTracking\ProjectTracking\obj\Debug\ProjectTracking.csproj.GenerateResource.Cache
